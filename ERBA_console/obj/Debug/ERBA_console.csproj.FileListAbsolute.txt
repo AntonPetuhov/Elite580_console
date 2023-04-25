@@ -1,0 +1,12 @@
+C:\Users\anton.petuhov\source\repos\ERBA_console\ERBA_console\obj\Debug\ERBA_console.csproj.CoreCompileInputs.cache
+C:\Users\anton.petuhov\source\repos\ERBA_console\ERBA_console\bin\Debug\ERBA_console.exe.config
+C:\Users\anton.petuhov\source\repos\ERBA_console\ERBA_console\bin\Debug\ERBA_console.exe
+C:\Users\anton.petuhov\source\repos\ERBA_console\ERBA_console\bin\Debug\ERBA_console.pdb
+C:\Users\anton.petuhov\source\repos\ERBA_console\ERBA_console\obj\Debug\ERBA_console.exe
+C:\Users\anton.petuhov\source\repos\ERBA_console\ERBA_console\obj\Debug\ERBA_console.pdb
+C:\Users\anton.petuhov\source\repos\ERBA_console\ERBA_console\bin\Debug\System.Security.AccessControl.dll
+C:\Users\anton.petuhov\source\repos\ERBA_console\ERBA_console\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\anton.petuhov\source\repos\ERBA_console\ERBA_console\bin\Debug\System.Security.AccessControl.xml
+C:\Users\anton.petuhov\source\repos\ERBA_console\ERBA_console\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\anton.petuhov\source\repos\ERBA_console\ERBA_console\obj\Debug\ERBA_console.csproj.CopyComplete
+C:\Users\anton.petuhov\source\repos\ERBA_console\ERBA_console\obj\Debug\ERBA_console.csproj.AssemblyReference.cache
